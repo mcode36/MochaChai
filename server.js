@@ -1,4 +1,9 @@
 'use strict'
+/*
+Unit: QA with mocha & chai
+Project Page: https://glitch.com/~adaptive-humane-giraffatitan
+Live App: https://adaptive-humane-giraffatitan.glitch.me
+*/
 var express = require('express');
 var app = express();
 
